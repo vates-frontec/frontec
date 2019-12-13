@@ -1,0 +1,10 @@
+Líneas Múltiples Federico Jaeggi
+
+Cuando se destildan las 3 opciones queda cargando datos sin terminar.
+
+cuando se elije solamente 'pesimista', la curva queda diagonal, mostrando valores negativos ( deberia mostrarse sobre el eje de abscisa 0)
+
+Ver rentabilidad, cuando se crea una prescripcion
+ngreso de soja (US$/ha): US$ 5.50
+Costo de fertilizante (US$/ha): US$ 87.00
+Ganancia marginal (US$/ha): US$ -3204.00   -- pone el valor por default
